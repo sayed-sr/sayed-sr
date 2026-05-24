@@ -20,9 +20,7 @@
   <a href="mailto:sr.sayedislamrifat@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<br/>
 
-> I don't just write code — I build <strong>products</strong> <em><strong>people remember.</strong></em> &nbsp;Let's <strong>build something great.</strong>
 </div>
 
 ---
