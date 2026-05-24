@@ -22,7 +22,7 @@
 
 <br/>
 
-> 💡 &nbsp;I don't just write code — I build <strong>products</strong> <em><strong>people remember.</strong></em> &nbsp;Let's <strong>build something great.</strong>
+> I don't just write code — I build <strong>products</strong> <em><strong>people remember.</strong></em> &nbsp;Let's <strong>build something great.</strong>
 </div>
 
 ---
