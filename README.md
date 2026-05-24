@@ -56,6 +56,16 @@
       <img src="https://skillicons.dev/icons?i=dart" height="36" title="Dart"/>
     </td>
   </tr>
+  
+  <tr>
+    <td align="center"><strong>Dev Environment</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git" height="36" title="Git"/>&nbsp;
+      <img src="https://skillicons.dev/icons?i=github" height="36" title="GitHub"/>&nbsp;
+      <img src="https://skillicons.dev/icons?i=vscode" height="36" title="VS Code"/>&nbsp;
+      <img src="https://skillicons.dev/icons?i=vite" height="36" title="Vite"/>
+    </td>
+  </tr>
   <tr>
     <td align="center"><strong>Design</strong></td>
     <td>
@@ -64,15 +74,6 @@
       <img src="https://skillicons.dev/icons?i=pr" height="36" title="Premiere Pro"/>&nbsp;
       <img src="https://skillicons.dev/icons?i=figma" height="36" title="Figma"/>&nbsp;
       <img src="https://skillicons.dev/icons?i=canva" height="36" title="Canva"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Dev Environment</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git" height="36" title="Git"/>&nbsp;
-      <img src="https://skillicons.dev/icons?i=github" height="36" title="GitHub"/>&nbsp;
-      <img src="https://skillicons.dev/icons?i=vscode" height="36" title="VS Code"/>&nbsp;
-      <img src="https://skillicons.dev/icons?i=vite" height="36" title="Vite"/>
     </td>
   </tr>
 </table>
