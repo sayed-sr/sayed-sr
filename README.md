@@ -114,5 +114,5 @@
 <div align="center">
   <strong>Available for opportunities</strong> &nbsp;·&nbsp;
   <a href="mailto:sr.sayedislamrifat@gmail.com">sr.sayedislamrifat@gmail.com</a> &nbsp;·&nbsp;
-  Dhaka, Bangladesh
+  Bangladesh
 </div>
