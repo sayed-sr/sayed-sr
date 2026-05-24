@@ -1,105 +1,100 @@
 <div align="center">
 
-<!-- HERO (BRAND HEADER) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=I+Build+Scalable+MERN+Systems+That+Feel+Like+Products;UI%2FUX+Driven+Full-Stack+Engineer;IEEE+INDcon+2025+Champion+🏆;Turning+Ideas+Into+Production-Grade+Web+Apps" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1400&color=7C3AED&center=true&vCenter=true&multiline=false&width=700&lines=Full-Stack+Developer+%7C+MERN+Stack;IEEE+INDcon+2025+Champion+%F0%9F%8F%86;CSE+%40+Daffodil+International+University;Graphic+Designer+%26+Visual+Thinker)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- CTA STRIP -->
-<p>
-<a href="mailto:sr.sayedislamrifat@gmail.com">
-<img src="https://img.shields.io/badge/Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/sayed-sr">
-<img src="https://img.shields.io/badge/View%20Work-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/sayed-sr">
-<img src="https://img.shields.io/badge/Let’s%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
+> *3rd-year CSE student at Daffodil International University — building scalable full-stack web applications,*
+> *winning IEEE competitions, and crafting visual experiences. Open to freelance, collaboration & full-time roles.*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayed-sr)
+[![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sayed-sr)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801771788176)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/md_sayed_islam)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sr.sayedislamrifat@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=sayed-sr&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 
 </div>
 
----
-
-# 🧭 WHAT I BUILD
-
-I design and develop **full-stack web systems** focused on:
-
-- ⚡ High-performance React / Next.js interfaces  
-- 🧠 Clean, scalable backend architectures (Node + Express)  
-- 🗄️ Efficient MongoDB data systems  
-- 🎯 UI systems that feel like real products, not templates  
-- 🔐 Secure authentication + role-based systems  
-
-> Think: *startup-grade web apps, not student projects.*
+<br/>
 
 ---
 
-# 🧱 SYSTEM ARCHITECTURE STACK
-
-### 🎨 Frontend Layer
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,html,css&theme=dark"/>
-</p>
-
-### ⚙️ Backend Layer
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark"/>
-</p>
-
-### 🧰 Engineering Toolchain
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode&theme=dark"/>
-</p>
-
----
-
-# 📊 LIVE ENGINEERING SIGNALS
+## 🛠 &nbsp;Tech Stack
 
 <div align="center">
 
-<!-- CORE STATS -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sayed-sr&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=06b6d4&text_color=c9d1d9"/>
-
-<!-- LANGUAGE DISTRIBUTION -->
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayed-sr&layout=compact&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9"/>
-
-</div>
-
----
-
-# 📈 DEVELOPMENT ACTIVITY ENGINE
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sayed-sr&theme=dark&hide_border=true&ring=7C3AED&fire=06B6D4&currStreakLabel=7C3AED" />
+#### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" height="42" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayed-sr&bg_color=0d1117&color=7c3aed&line=06b6d4&point=c9d1d9&hide_border=true" />
+#### Backend &nbsp;·&nbsp; Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="42" />
+
+<br/><br/>
+
+#### Design &nbsp;·&nbsp; Tools
+<img src="https://skillicons.dev/icons?i=ps,ai,pr,figma,canva" height="42" />
+
+<br/><br/>
+
+#### Dev Environment
+<img src="https://skillicons.dev/icons?i=git,github,vscode,flutter" height="42" />
 
 </div>
 
----
-
-# 🏆 TRUST SIGNALS (ACHIEVEMENTS)
-
-| Signal | Description |
-|---|---|
-| 🏆 IEEE INDcon 2025 | National Champion |
-| 🤖 Microsoft AI Certified | Copilot + AI workflows |
-| 📜 Research Training | Academic research methodology |
-| 🎓 Merit Scholarship | Consistent academic excellence |
+<br/>
 
 ---
 
-# 🚀 FEATURED SYSTEMS (PROJECT ZONE)
+## 🏅 &nbsp;Achievements
 
-> Replace these with your real projects later (this is structured like a startup portfolio grid)
+<div align="center">
 
-```txt
-✔ E-Commerce System (MERN + Payment Flow)
-✔ AI-Based Academic Assistant (NLP integration)
-✔ Portfolio CMS Platform (Next.js + MongoDB)
-✔ Real-time Chat Application (Socket.io)
+| &nbsp; | Achievement | Details |
+|:---:|:---|:---|
+| 🏆 | **IEEE INDcon 2025 Champion** | Led team to 1st place — Bangladesh national competition |
+| 🤖 | **Microsoft AI & Copilot Certified** | 3 learning paths · 7 modules &nbsp;·&nbsp; Jun 2025 |
+| 📜 | **Research Seminar Certified** | *Way of Research* — Md. Hasan Bijoy |
+| 🎓 | **National Government Scholarship** | Awarded yearly · Class 1 through 10 |
+
+</div>
+
+<br/>
+
+---
+
+## 📊 &nbsp;GitHub Stats
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=sayed-sr&show_icons=true&theme=tokyonight&hide_border=true&title_color=7c3aed&icon_color=06b6d4&include_all_commits=true&count_private=true"
+  height="170"
+/>
+&nbsp;&nbsp;
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayed-sr&layout=compact&theme=tokyonight&hide_border=true&title_color=7c3aed&langs_count=8"
+  height="170"
+/>
+
+<br/><br/>
+
+<img
+  src="https://streak-stats.demolab.com?user=sayed-sr&theme=tokyonight&hide_border=true&ring=7c3aed&fire=06b6d4&currStreakLabel=7c3aed"
+  height="155"
+/>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+<b>Available for opportunities</b> &nbsp;·&nbsp; <a href="mailto:sr.sayedislamrifat@gmail.com">sr.sayedislamrifat@gmail.com</a> &nbsp;·&nbsp; Dhaka, Bangladesh
+</div>
