@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;IEEE+INDcon+2025+Champion+🏆;CSE+Student+%40+Daffodil+International+University;UI%2FUX+Focused+Full-Stack+Engineer" />
+
 
 <br/>
 
