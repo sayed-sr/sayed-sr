@@ -99,15 +99,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sayed-sr&show_icons=true&hide_border=true&title_color=7c3aed&icon_color=06b6d4&text_color=555555&bg_color=ffffff&include_all_commits=true&count_private=true&rank_icon=github" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayed-sr&layout=compact&hide_border=true&title_color=7c3aed&text_color=555555&bg_color=ffffff&langs_count=8" height="160"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=sayed-sr&hide_border=true&ring=7c3aed&fire=06b6d4&currStreakLabel=7c3aed&sideLabels=555555&dates=888888&background=ffffff" height="150"/>
+<img
+  src="https://streak-stats.demolab.com?user=sayed-sr&theme=tokyonight&hide_border=true&ring=7c3aed&fire=06b6d4&currStreakLabel=7c3aed"
+  height="155"
+/>
 
 </div>
 
