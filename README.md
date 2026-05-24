@@ -22,8 +22,9 @@
 
 <br/>
 
-> **💡 I don't just write code — I build products people remember. Let's create something remarkable together.**
-
+> 💡 &nbsp;I don't just write code — I build <strong>products</strong> <em><strong>people remember.</strong></em><br/>
+> If you need someone who thinks in <strong>systems</strong>, designs with <strong>purpose</strong>, and ships with <strong>precision</strong> —<br/>
+> <em><strong>your search ends here.</strong></em> &nbsp;Let's build something <strong>great.</strong>
 </div>
 
 ---
